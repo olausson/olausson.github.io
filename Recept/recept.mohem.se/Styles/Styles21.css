@@ -1,0 +1,174 @@
+﻿/*  GLOBAL STUFF  */
+
+
+#container
+{
+float: left;
+width: 98%;
+max-width: 840px;
+margin: 0px 0px;
+background-color: #fff;
+color: #333;
+/*border: 1px solid gray;*/
+line-height: 120%;
+}
+
+#topContent
+{
+/*padding: .5em;*/
+/*background-color: #ddd;*/
+border-bottom: 1px solid gray;
+}
+
+#topContent h1
+{
+padding: 0;
+margin: 0;
+}
+
+div.leftContent
+{
+float: left;
+width: 230px;
+margin: 0;
+padding: 0;
+}
+
+#rightContent
+{
+float: right;
+width: 160px;
+margin: 0;
+padding: 1em;
+}
+
+div.mainContent
+{
+margin-left: 230px;
+/*margin-right: 175px;*/
+padding: 1em;
+/*max-width: 50em;*/
+}
+
+div.mainContent2
+{
+margin-left: 0px;
+/*margin-right: 175px;*/
+padding: 1em;
+/*max-width: 50em;*/
+}
+
+#footerContent
+{
+clear: both;
+margin: 0;
+padding: .5em;
+color: #333;
+/*background-color: #ddd;*/
+}
+
+#leftContent p, #rightContent p { margin: 0 0 1em 0; }
+div.mainContent h2 { margin: 0 0 .5em 0; }
+div.mainContent2 h2 { margin: 0 0 .5em 0; }
+
+
+
+
+#DivRecipeHeader{
+	/*border: 1px solid black;*/
+}
+
+#DivRecipeHeader h2{
+	color:#F88600;
+	font-weight:bold;
+	/*font-size: small;*/
+}
+
+#DivRecipeFactContainer 
+{
+	float: left;
+	width: 32%;
+	padding: .5em;
+	border-right: 1px solid gray;
+}
+
+#DivRecipeFactContainerP 
+{
+	padding: .5em;
+	border-right: 1px solid gray;
+}
+
+
+#DivRecipeInfo{
+/*	float: right;
+	width: 14em;
+	height: 200px;*/
+	background: #F1EEE9;
+}
+
+#DivRecipeInfo p{
+	padding: 8px 6px 0px 8px;
+	background: #F1EEE9;
+}
+
+#DivRecipeText
+{
+   width: 62%;
+   float: right;
+/*	margin-left: 12em;*/
+	padding: .6em;
+/*	border: 1px solid black;*/
+/*	margin: 0 0 12px 0;*/
+/*	float:left;*/
+}
+
+#DivRecipeTextP
+{
+	padding: .6em;
+/*	border: 1px solid black;*/
+/*	margin: 0 0 12px 0;*/
+/*	float:left;*/
+}
+
+#DivRecipeImage
+{
+/*   width: 62%;
+   float: right;
+	padding: .6em;*/
+}
+
+#DivRecipeEdit
+{
+	font-weight: bold;
+}
+
+#DivRecipeEditImage
+{
+	font-weight: bold;
+}
+
+DIV#recept_edit{
+	width: 400px;
+	margin: 0 0 12px 0;
+	float:left;
+}
+
+DIV#divMenu{
+	width: 400px;
+	margin: 0 0 12px 0;
+	float:left;
+}
+
+DIV#recept_bild_text{
+	padding: 8px 6px 8px 8px;
+	background: #FAC483;
+}
+
+DIV#recept_info{
+	width: 372px;
+	background: #FAC483;
+	margin: 0 0 12px 0;
+	padding: 14px 12px 14px 12px;
+	float:left;
+	border: 1px;
+}
